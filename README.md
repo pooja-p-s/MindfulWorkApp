@@ -121,14 +121,10 @@ com.poojaps.mindfulwork/
 ---
 ## 📸 App Preview
 
-| Screen | Dark Mode | Light Mode |
-|:--------|:-----------:|:-----------:|
-| 🏠 **Home Dashboard** | <img src="ui-images/darkmode/home.png" width="220"/> | <img src="ui-images/lightmode/home.png" width="220"/> |
-| ⏱️ **Focus Timer** | <img src="ui-images/darkmode/focus.png" width="220"/> | <img src="ui-images/lightmode/focus.png" width="220"/> |
-| 😊 **Mood Tracker** | <img src="ui-images/darkmode/mood.png" width="220"/> | <img src="ui-images/lightmode/mood.png" width="220"/> |
-| 📊 **Weekly Summary** | <img src="ui-images/darkmode/summary.png" width="220"/> | <img src="ui-images/lightmode/summary.png" width="220"/> |
-| ⚙️ **Settings** | <img src="ui-images/darkmode/settings.png" width="220"/> | <img src="ui-images/lightmode/settings.png" width="220"/> |
-
+| Mode | 🏠 Home | ⏱️ Focus | 😊 Mood | 📊 Summary | ⚙️ Settings |
+|:------|:------:|:------:|:------:|:------:|:------:|
+| **🌙 Dark Mode** | <img src="ui-images/darkmode/home.png" width="200"/> | <img src="ui-images/darkmode/focus.png" width="200"/> | <img src="ui-images/darkmode/mood.png" width="200"/> | <img src="ui-images/darkmode/summary.png" width="200"/> | <img src="ui-images/darkmode/settings.png" width="200"/> |
+| **🌞 Light Mode** | <img src="ui-images/lightmode/home.png" width="200"/> | <img src="ui-images/lightmode/focus.png" width="200"/> | <img src="ui-images/lightmode/mood.png" width="200"/> | <img src="ui-images/lightmode/summary.png" width="200"/> | <img src="ui-images/lightmode/settings.png" width="200"/> |
 
 ---
 
