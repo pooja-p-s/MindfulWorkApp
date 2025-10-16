@@ -1,0 +1,1132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/4cdb91f5cbc7468cc2ffd4e0e970be0e/transformed/hilt-navigation-compose-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel-compose:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/83076c95c047ee9192d1bc460b89ca7f/transformed/hilt-lifecycle-viewmodel-compose-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/406031effd04cf50d2b05e1b095ab638/transformed/hilt-lifecycle-viewmodel-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.57.2] /Users/poojaps/.gradle/caches/8.13/transforms/e9e571dcf850efaea622a4c70fb98aeb/transformed/hilt-android-2.57.2/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/4a0efb8707764b5d6945c06703cb0a19/transformed/navigation-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/1a5afc7ef2aeeb463ae1d1af3665059f/transformed/navigation-common-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/ff3bd9e5f3d84dc0da9da90f26852290/transformed/navigation-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/e8b9cc13f5dd3ba10336b48429508c47/transformed/material3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/68973f9ef6a7527fb6107067c148eef6/transformed/material/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e47b1a8fa499339015f5535bf5435929/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e0ff011d84a7a998bf17e14dd3c82eb2/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/1d1c12df490b7e9511d5fd3f8a68067f/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/c51ad49f1af2f820a9c48b19a90c0bd2/transformed/animation-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/b7ac1f8d2c67ebbdbaa427c37427ef65/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/a7fd37c8ab06a70498c0b852d1676a11/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/83997e3a82f0a1207374a67381ebc95b/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/95ab3e1b0e39649305c58d1220e40fb4/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/27c9cb950551f6e2c4028c4b81aa4ccb/transformed/ui-util/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/2676b92cd4dd86baaccf0cf48f045d23/transformed/ui-text/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/0f20982b51859ad77107fa8ebe47ce52/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e53fb9c9f206ef1461afff190fe11506/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/9e6de01ae1d7f66920e4c5a6481e172c/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/cc74dda000b3483f602cc55a9bf8b713/transformed/firebase-analytics-23.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/eb3a6cfa29a020cac1b73a2a7c0d08a0/transformed/play-services-measurement-sdk-23.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/f3e0857056749a89b847b6b453b5b885/transformed/room-ktx-2.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/cd25e9fc7bc7cb77b1884d9211b318a0/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/660789cf64dbd19ccc98b5e50f842caa/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/cde70fb863c18c774cdb6f77eab3d241/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/poojaps/.gradle/caches/8.13/transforms/dcf6a4398e758613059a5ad3eb3b205c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/89f6e3c7d3e386bc313f15680b8e23c8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/e204f7a54adc1d43574ec41b3521c8a0/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/f2182b40e316caf1a16db0957391097b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/0d4ed009df2052c2cf03b86eb2f05914/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/86d0e89fb7ea6563aa77740a9b89c214/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/4f3d64b14f2cae05abbab6f3133ecf27/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/74d87b7b4f4dae24c793079f5693233c/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/poojaps/.gradle/caches/8.13/transforms/92a6b6525310ec8f013eb0802485f8dd/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/a837e28326e268af9c3c4a6a6f9a0c1a/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/16779ffa0cddbe3e7ebaec93ea2b28d0/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/6194c6af4e3144529a6a0e98f9b62ce6/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/poojaps/.gradle/caches/8.13/transforms/555baf788a379c1cab9b049e89159008/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-ktx:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/ff8bbe7677b7a473f808373e1f04528e/transformed/activity-ktx-1.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/481cafc921d14d400f0e657a4e58bd4c/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/636817ef7af5cf90413cf5e50c063b0e/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/82c629e96e41203361f102a7a45450bf/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/ea36ed4191aac20138cabf87790724b4/transformed/lifecycle-viewmodel-savedstate-2.9.4/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/3cc0706501e4dc2c413f465c17fa0430/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/e7702b9a596e4de7321c97d6e171acba/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/ee678ac30b48d2a906392b8a4c05ca40/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/1c2caa0fa292ae8e750368755429b724/transformed/savedstate-ktx-1.3.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/7ed0229efb3f38bbf33df6cb209a4945/transformed/savedstate-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/87b92c193ef4b613dfb063382dba9d26/transformed/savedstate-1.3.3/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/c75b690c97857dfeba93034ca5c96ea5/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/25b4977deaf231821abf5bd10e32c7d9/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/3e7b029916a036d1d750de47160c367a/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/cca9ee7b413b44eb60f49088c1ccaedf/transformed/runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/368b0f356e60f1185d347906c2fb659d/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/43946a0831736420494fdb153e666874/transformed/datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/9fffc04bde689f1b5ac8986e5997845a/transformed/datastore-preferences-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/e8a6e9541d1488bfd03c7d72ea493306/transformed/datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/b4db0890321831c27d528c8ad213ebb1/transformed/datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/55172ed140dbc8fc223e335992a4c158/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/31ce6345ddf5fcd2081c10a7ad6e7fa7/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/565c30e70170b417e82c58b82e319575/transformed/integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/05facea53955a17694c43a0666c075c1/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/poojaps/.gradle/caches/8.13/transforms/d69d06413f3f74376be1c2e958002897/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/bd2a0ac8b7d44f43ecad7b07aefa2f9d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/0690f8439b804df67ba71edfbc840821/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/20690578339ed4cc6f8b334bdf73a807/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/fd078fab1bab487b3e5e52d9561c706b/transformed/play-services-measurement-base-23.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bbb1a857dbed938b8fcf31f4c80ea26/transformed/play-services-basement-18.5.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/poojaps/.gradle/caches/8.13/transforms/63a284856e4152b9635c76247e8a5b5b/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/46b2da02b15a089ab045ee8a8918bedb/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/6ee746d7b9ee2a4319178e8e8827711a/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/085252ab199a21221fc2dad7605ecc3d/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/poojaps/.gradle/caches/8.13/transforms/fce34711107fdc00a47b99f89279bbde/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/poojaps/.gradle/caches/8.13/transforms/b25a2ea0c304cc128aa072bb3e98ef7a/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/b0283f4378bf680a7b8f166d8688a5dd/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.activity:activity:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/a6ee54f482e3102e7f304f9b620cb167/transformed/activity-1.11.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/467fa1f565ba935a152182cc4b2b7a2f/transformed/activity-compose-1.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/ef6ac5ba107972c4010ddf8cb29bae81/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/3b105fa8cc380b8e502c3252854f446d/transformed/core-ktx-1.17.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c94942004bb059e8d410e26eeeada7a7/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/4d15db04284ee56ba8b23dd0911473ff/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/604dc10c29c16426d1cb4096faa1a671/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/a4aa10eea31ed3736ad4c166e5b061c1/transformed/startup-runtime-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/bd9d30ac5a6137bb6ae0b5b0b07b0d4b/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/poojaps/.gradle/caches/8.13/transforms/4cb41e7fe94039b6a198d3a1611c8640/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/9d7eaf192951a8b11749dda3f17fe494/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/2d20136831bfe653beb9aa85a40b387f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/4c2bdf0659b8bd73552a31212d2f9bcb/transformed/firebase-components-19.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/79deca8f2896fe40365980be523fa237/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/093aaa2b4355a927b43b9a19a4cc3c19/transformed/transport-api-3.1.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/2bf11044b425dd79365d26b10d3d88a4/transformed/sqlite-framework/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/949a30139d99f8d3931858b5384e4a0c/transformed/sqlite/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d133767990047b2411b06c68ca047394/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bd150a8b68545c8347628b3189dca07/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/1e218683a00269262d3e6c8eb969c07b/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/poojaps/.gradle/caches/8.13/transforms/be112e59aea92f4614507925538d969e/transformed/grpc-android-1.62.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.57.2] /Users/poojaps/.gradle/caches/8.13/transforms/d7dd5ee7c5c2ea3ba94b6ffc4c890208/transformed/dagger-lint-aar-2.57.2/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/c11580669bb95d11f4b83e2354cd94c3/transformed/protolite-well-known-types-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:5:5-25:19
+INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e53fb9c9f206ef1461afff190fe11506/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e53fb9c9f206ef1461afff190fe11506/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/cc74dda000b3483f602cc55a9bf8b713/transformed/firebase-analytics-23.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/cc74dda000b3483f602cc55a9bf8b713/transformed/firebase-analytics-23.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/eb3a6cfa29a020cac1b73a2a7c0d08a0/transformed/play-services-measurement-sdk-23.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/eb3a6cfa29a020cac1b73a2a7c0d08a0/transformed/play-services-measurement-sdk-23.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/poojaps/.gradle/caches/8.13/transforms/dcf6a4398e758613059a5ad3eb3b205c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/poojaps/.gradle/caches/8.13/transforms/dcf6a4398e758613059a5ad3eb3b205c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:26:5-37:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/a837e28326e268af9c3c4a6a6f9a0c1a/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/a837e28326e268af9c3c4a6a6f9a0c1a/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/6194c6af4e3144529a6a0e98f9b62ce6/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/6194c6af4e3144529a6a0e98f9b62ce6/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/368b0f356e60f1185d347906c2fb659d/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/368b0f356e60f1185d347906c2fb659d/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/31ce6345ddf5fcd2081c10a7ad6e7fa7/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/31ce6345ddf5fcd2081c10a7ad6e7fa7/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/565c30e70170b417e82c58b82e319575/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/565c30e70170b417e82c58b82e319575/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/05facea53955a17694c43a0666c075c1/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/05facea53955a17694c43a0666c075c1/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/bd2a0ac8b7d44f43ecad7b07aefa2f9d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/bd2a0ac8b7d44f43ecad7b07aefa2f9d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/0690f8439b804df67ba71edfbc840821/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/0690f8439b804df67ba71edfbc840821/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/20690578339ed4cc6f8b334bdf73a807/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/20690578339ed4cc6f8b334bdf73a807/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/fd078fab1bab487b3e5e52d9561c706b/transformed/play-services-measurement-base-23.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/fd078fab1bab487b3e5e52d9561c706b/transformed/play-services-measurement-base-23.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bbb1a857dbed938b8fcf31f4c80ea26/transformed/play-services-basement-18.5.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bbb1a857dbed938b8fcf31f4c80ea26/transformed/play-services-basement-18.5.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:10:5-20:19
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/a4aa10eea31ed3736ad4c166e5b061c1/transformed/startup-runtime-1.2.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/a4aa10eea31ed3736ad4c166e5b061c1/transformed/startup-runtime-1.2.0/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/poojaps/.gradle/caches/8.13/transforms/4cb41e7fe94039b6a198d3a1611c8640/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/poojaps/.gradle/caches/8.13/transforms/4cb41e7fe94039b6a198d3a1611c8640/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+	android:extractNativeLibs
+		INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:14:9-49
+	android:dataExtractionRules
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:7:9-65
+	android:name
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:13:9-36
+activity#com.poojaps.mindfulwork.MainActivity
+ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:exported
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:18:13-53
+	android:name
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/4cdb91f5cbc7468cc2ffd4e0e970be0e/transformed/hilt-navigation-compose-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/4cdb91f5cbc7468cc2ffd4e0e970be0e/transformed/hilt-navigation-compose-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel-compose:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/83076c95c047ee9192d1bc460b89ca7f/transformed/hilt-lifecycle-viewmodel-compose-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel-compose:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/83076c95c047ee9192d1bc460b89ca7f/transformed/hilt-lifecycle-viewmodel-compose-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/406031effd04cf50d2b05e1b095ab638/transformed/hilt-lifecycle-viewmodel-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/406031effd04cf50d2b05e1b095ab638/transformed/hilt-lifecycle-viewmodel-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.57.2] /Users/poojaps/.gradle/caches/8.13/transforms/e9e571dcf850efaea622a4c70fb98aeb/transformed/hilt-android-2.57.2/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.57.2] /Users/poojaps/.gradle/caches/8.13/transforms/e9e571dcf850efaea622a4c70fb98aeb/transformed/hilt-android-2.57.2/AndroidManifest.xml:18:3-42
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/4a0efb8707764b5d6945c06703cb0a19/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/4a0efb8707764b5d6945c06703cb0a19/transformed/navigation-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/1a5afc7ef2aeeb463ae1d1af3665059f/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/1a5afc7ef2aeeb463ae1d1af3665059f/transformed/navigation-common-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/ff3bd9e5f3d84dc0da9da90f26852290/transformed/navigation-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.5] /Users/poojaps/.gradle/caches/8.13/transforms/ff3bd9e5f3d84dc0da9da90f26852290/transformed/navigation-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/e8b9cc13f5dd3ba10336b48429508c47/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/e8b9cc13f5dd3ba10336b48429508c47/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/68973f9ef6a7527fb6107067c148eef6/transformed/material/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/68973f9ef6a7527fb6107067c148eef6/transformed/material/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e47b1a8fa499339015f5535bf5435929/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e47b1a8fa499339015f5535bf5435929/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e0ff011d84a7a998bf17e14dd3c82eb2/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e0ff011d84a7a998bf17e14dd3c82eb2/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/1d1c12df490b7e9511d5fd3f8a68067f/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/1d1c12df490b7e9511d5fd3f8a68067f/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/c51ad49f1af2f820a9c48b19a90c0bd2/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/c51ad49f1af2f820a9c48b19a90c0bd2/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/b7ac1f8d2c67ebbdbaa427c37427ef65/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/b7ac1f8d2c67ebbdbaa427c37427ef65/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/a7fd37c8ab06a70498c0b852d1676a11/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/a7fd37c8ab06a70498c0b852d1676a11/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/83997e3a82f0a1207374a67381ebc95b/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/83997e3a82f0a1207374a67381ebc95b/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/95ab3e1b0e39649305c58d1220e40fb4/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/95ab3e1b0e39649305c58d1220e40fb4/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/27c9cb950551f6e2c4028c4b81aa4ccb/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/27c9cb950551f6e2c4028c4b81aa4ccb/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/2676b92cd4dd86baaccf0cf48f045d23/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/2676b92cd4dd86baaccf0cf48f045d23/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/0f20982b51859ad77107fa8ebe47ce52/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/0f20982b51859ad77107fa8ebe47ce52/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e53fb9c9f206ef1461afff190fe11506/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e53fb9c9f206ef1461afff190fe11506/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/9e6de01ae1d7f66920e4c5a6481e172c/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/9e6de01ae1d7f66920e4c5a6481e172c/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/cc74dda000b3483f602cc55a9bf8b713/transformed/firebase-analytics-23.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/cc74dda000b3483f602cc55a9bf8b713/transformed/firebase-analytics-23.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/eb3a6cfa29a020cac1b73a2a7c0d08a0/transformed/play-services-measurement-sdk-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/eb3a6cfa29a020cac1b73a2a7c0d08a0/transformed/play-services-measurement-sdk-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/f3e0857056749a89b847b6b453b5b885/transformed/room-ktx-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/f3e0857056749a89b847b6b453b5b885/transformed/room-ktx-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/cd25e9fc7bc7cb77b1884d9211b318a0/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/cd25e9fc7bc7cb77b1884d9211b318a0/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/660789cf64dbd19ccc98b5e50f842caa/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/660789cf64dbd19ccc98b5e50f842caa/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/cde70fb863c18c774cdb6f77eab3d241/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/cde70fb863c18c774cdb6f77eab3d241/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/poojaps/.gradle/caches/8.13/transforms/dcf6a4398e758613059a5ad3eb3b205c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/poojaps/.gradle/caches/8.13/transforms/dcf6a4398e758613059a5ad3eb3b205c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/89f6e3c7d3e386bc313f15680b8e23c8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/89f6e3c7d3e386bc313f15680b8e23c8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/e204f7a54adc1d43574ec41b3521c8a0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/e204f7a54adc1d43574ec41b3521c8a0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/f2182b40e316caf1a16db0957391097b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/f2182b40e316caf1a16db0957391097b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/0d4ed009df2052c2cf03b86eb2f05914/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/0d4ed009df2052c2cf03b86eb2f05914/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/86d0e89fb7ea6563aa77740a9b89c214/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/86d0e89fb7ea6563aa77740a9b89c214/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/4f3d64b14f2cae05abbab6f3133ecf27/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/4f3d64b14f2cae05abbab6f3133ecf27/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:19:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/74d87b7b4f4dae24c793079f5693233c/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/74d87b7b4f4dae24c793079f5693233c/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/poojaps/.gradle/caches/8.13/transforms/92a6b6525310ec8f013eb0802485f8dd/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/poojaps/.gradle/caches/8.13/transforms/92a6b6525310ec8f013eb0802485f8dd/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/a837e28326e268af9c3c4a6a6f9a0c1a/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/a837e28326e268af9c3c4a6a6f9a0c1a/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/16779ffa0cddbe3e7ebaec93ea2b28d0/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/16779ffa0cddbe3e7ebaec93ea2b28d0/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/6194c6af4e3144529a6a0e98f9b62ce6/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/6194c6af4e3144529a6a0e98f9b62ce6/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/poojaps/.gradle/caches/8.13/transforms/555baf788a379c1cab9b049e89159008/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/poojaps/.gradle/caches/8.13/transforms/555baf788a379c1cab9b049e89159008/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/ff8bbe7677b7a473f808373e1f04528e/transformed/activity-ktx-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/ff8bbe7677b7a473f808373e1f04528e/transformed/activity-ktx-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/481cafc921d14d400f0e657a4e58bd4c/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/481cafc921d14d400f0e657a4e58bd4c/transformed/lifecycle-livedata-core-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/636817ef7af5cf90413cf5e50c063b0e/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/636817ef7af5cf90413cf5e50c063b0e/transformed/lifecycle-livedata-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/82c629e96e41203361f102a7a45450bf/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/82c629e96e41203361f102a7a45450bf/transformed/lifecycle-viewmodel-ktx-2.9.4/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/ea36ed4191aac20138cabf87790724b4/transformed/lifecycle-viewmodel-savedstate-2.9.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/ea36ed4191aac20138cabf87790724b4/transformed/lifecycle-viewmodel-savedstate-2.9.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/3cc0706501e4dc2c413f465c17fa0430/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/3cc0706501e4dc2c413f465c17fa0430/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/e7702b9a596e4de7321c97d6e171acba/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/e7702b9a596e4de7321c97d6e171acba/transformed/lifecycle-viewmodel-2.9.4/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/ee678ac30b48d2a906392b8a4c05ca40/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/ee678ac30b48d2a906392b8a4c05ca40/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/1c2caa0fa292ae8e750368755429b724/transformed/savedstate-ktx-1.3.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/1c2caa0fa292ae8e750368755429b724/transformed/savedstate-ktx-1.3.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/7ed0229efb3f38bbf33df6cb209a4945/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/7ed0229efb3f38bbf33df6cb209a4945/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/87b92c193ef4b613dfb063382dba9d26/transformed/savedstate-1.3.3/AndroidManifest.xml:4:5-43
+MERGED from [androidx.savedstate:savedstate:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/87b92c193ef4b613dfb063382dba9d26/transformed/savedstate-1.3.3/AndroidManifest.xml:4:5-43
+MERGED from [androidx.savedstate:savedstate-android:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/c75b690c97857dfeba93034ca5c96ea5/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.3] /Users/poojaps/.gradle/caches/8.13/transforms/c75b690c97857dfeba93034ca5c96ea5/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/25b4977deaf231821abf5bd10e32c7d9/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/25b4977deaf231821abf5bd10e32c7d9/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/3e7b029916a036d1d750de47160c367a/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/3e7b029916a036d1d750de47160c367a/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/cca9ee7b413b44eb60f49088c1ccaedf/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/cca9ee7b413b44eb60f49088c1ccaedf/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/368b0f356e60f1185d347906c2fb659d/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/368b0f356e60f1185d347906c2fb659d/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:19:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/43946a0831736420494fdb153e666874/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/43946a0831736420494fdb153e666874/transformed/datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/9fffc04bde689f1b5ac8986e5997845a/transformed/datastore-preferences-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/9fffc04bde689f1b5ac8986e5997845a/transformed/datastore-preferences-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/e8a6e9541d1488bfd03c7d72ea493306/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/e8a6e9541d1488bfd03c7d72ea493306/transformed/datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/b4db0890321831c27d528c8ad213ebb1/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.7] /Users/poojaps/.gradle/caches/8.13/transforms/b4db0890321831c27d528c8ad213ebb1/transformed/datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/55172ed140dbc8fc223e335992a4c158/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/55172ed140dbc8fc223e335992a4c158/transformed/ads-adservices-java-1.1.0-beta11/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/31ce6345ddf5fcd2081c10a7ad6e7fa7/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/31ce6345ddf5fcd2081c10a7ad6e7fa7/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/565c30e70170b417e82c58b82e319575/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /Users/poojaps/.gradle/caches/8.13/transforms/565c30e70170b417e82c58b82e319575/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/05facea53955a17694c43a0666c075c1/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/05facea53955a17694c43a0666c075c1/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/poojaps/.gradle/caches/8.13/transforms/d69d06413f3f74376be1c2e958002897/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/poojaps/.gradle/caches/8.13/transforms/d69d06413f3f74376be1c2e958002897/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/bd2a0ac8b7d44f43ecad7b07aefa2f9d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/bd2a0ac8b7d44f43ecad7b07aefa2f9d/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/0690f8439b804df67ba71edfbc840821/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/0690f8439b804df67ba71edfbc840821/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/20690578339ed4cc6f8b334bdf73a807/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/20690578339ed4cc6f8b334bdf73a807/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/fd078fab1bab487b3e5e52d9561c706b/transformed/play-services-measurement-base-23.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/fd078fab1bab487b3e5e52d9561c706b/transformed/play-services-measurement-base-23.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bbb1a857dbed938b8fcf31f4c80ea26/transformed/play-services-basement-18.5.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bbb1a857dbed938b8fcf31f4c80ea26/transformed/play-services-basement-18.5.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/poojaps/.gradle/caches/8.13/transforms/63a284856e4152b9635c76247e8a5b5b/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/poojaps/.gradle/caches/8.13/transforms/63a284856e4152b9635c76247e8a5b5b/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/46b2da02b15a089ab045ee8a8918bedb/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/46b2da02b15a089ab045ee8a8918bedb/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/6ee746d7b9ee2a4319178e8e8827711a/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/6ee746d7b9ee2a4319178e8e8827711a/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/085252ab199a21221fc2dad7605ecc3d/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/085252ab199a21221fc2dad7605ecc3d/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/poojaps/.gradle/caches/8.13/transforms/fce34711107fdc00a47b99f89279bbde/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] /Users/poojaps/.gradle/caches/8.13/transforms/fce34711107fdc00a47b99f89279bbde/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/poojaps/.gradle/caches/8.13/transforms/b25a2ea0c304cc128aa072bb3e98ef7a/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/poojaps/.gradle/caches/8.13/transforms/b25a2ea0c304cc128aa072bb3e98ef7a/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/b0283f4378bf680a7b8f166d8688a5dd/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/b0283f4378bf680a7b8f166d8688a5dd/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/a6ee54f482e3102e7f304f9b620cb167/transformed/activity-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/a6ee54f482e3102e7f304f9b620cb167/transformed/activity-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/467fa1f565ba935a152182cc4b2b7a2f/transformed/activity-compose-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.11.0] /Users/poojaps/.gradle/caches/8.13/transforms/467fa1f565ba935a152182cc4b2b7a2f/transformed/activity-compose-1.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/ef6ac5ba107972c4010ddf8cb29bae81/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/ef6ac5ba107972c4010ddf8cb29bae81/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/3b105fa8cc380b8e502c3252854f446d/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/3b105fa8cc380b8e502c3252854f446d/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c94942004bb059e8d410e26eeeada7a7/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c94942004bb059e8d410e26eeeada7a7/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/4d15db04284ee56ba8b23dd0911473ff/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/4d15db04284ee56ba8b23dd0911473ff/transformed/annotation-experimental-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:6:5-44
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:6:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/604dc10c29c16426d1cb4096faa1a671/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/604dc10c29c16426d1cb4096faa1a671/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/a4aa10eea31ed3736ad4c166e5b061c1/transformed/startup-runtime-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/a4aa10eea31ed3736ad4c166e5b061c1/transformed/startup-runtime-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/bd9d30ac5a6137bb6ae0b5b0b07b0d4b/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/bd9d30ac5a6137bb6ae0b5b0b07b0d4b/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/poojaps/.gradle/caches/8.13/transforms/4cb41e7fe94039b6a198d3a1611c8640/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/poojaps/.gradle/caches/8.13/transforms/4cb41e7fe94039b6a198d3a1611c8640/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/9d7eaf192951a8b11749dda3f17fe494/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/9d7eaf192951a8b11749dda3f17fe494/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/2d20136831bfe653beb9aa85a40b387f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/2d20136831bfe653beb9aa85a40b387f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/4c2bdf0659b8bd73552a31212d2f9bcb/transformed/firebase-components-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/4c2bdf0659b8bd73552a31212d2f9bcb/transformed/firebase-components-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/79deca8f2896fe40365980be523fa237/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/79deca8f2896fe40365980be523fa237/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/093aaa2b4355a927b43b9a19a4cc3c19/transformed/transport-api-3.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/093aaa2b4355a927b43b9a19a4cc3c19/transformed/transport-api-3.1.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/2bf11044b425dd79365d26b10d3d88a4/transformed/sqlite-framework/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/2bf11044b425dd79365d26b10d3d88a4/transformed/sqlite-framework/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/949a30139d99f8d3931858b5384e4a0c/transformed/sqlite/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/949a30139d99f8d3931858b5384e4a0c/transformed/sqlite/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d133767990047b2411b06c68ca047394/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d133767990047b2411b06c68ca047394/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bd150a8b68545c8347628b3189dca07/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bd150a8b68545c8347628b3189dca07/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/1e218683a00269262d3e6c8eb969c07b/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/1e218683a00269262d3e6c8eb969c07b/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/poojaps/.gradle/caches/8.13/transforms/be112e59aea92f4614507925538d969e/transformed/grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/poojaps/.gradle/caches/8.13/transforms/be112e59aea92f4614507925538d969e/transformed/grpc-android-1.62.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.57.2] /Users/poojaps/.gradle/caches/8.13/transforms/d7dd5ee7c5c2ea3ba94b6ffc4c890208/transformed/dagger-lint-aar-2.57.2/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.57.2] /Users/poojaps/.gradle/caches/8.13/transforms/d7dd5ee7c5c2ea3ba94b6ffc4c890208/transformed/dagger-lint-aar-2.57.2/AndroidManifest.xml:18:3-42
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/c11580669bb95d11f4b83e2354cd94c3/transformed/protolite-well-known-types-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/c11580669bb95d11f4b83e2354cd94c3/transformed/protolite-well-known-types-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/poojaps/AndroidStudioProjects/MindfulWork/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e53fb9c9f206ef1461afff190fe11506/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e53fb9c9f206ef1461afff190fe11506/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/e53fb9c9f206ef1461afff190fe11506/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:8:5-67
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/poojaps/.gradle/caches/8.13/transforms/be112e59aea92f4614507925538d969e/transformed/grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.62.2] /Users/poojaps/.gradle/caches/8.13/transforms/be112e59aea92f4614507925538d969e/transformed/grpc-android-1.62.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:24.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/6d290cbefdf09fb1114e46c1da1a2462/transformed/firebase-auth-24.0.1/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/d517148c2e1309ff1d8d5b6fe835c371/transformed/firebase-database-22.0.1/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:26.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2f017e0849a8e7ed3e87fffec5c5341d/transformed/firebase-firestore-26.0.1/AndroidManifest.xml:21:17-111
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:23:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/858b4cf81d6b88466ac483879e9cfe54/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:47:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:50:13-52:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:50:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:51:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:51:25-75
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:25.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/2c5ea6734cce8f4b06fc680a78df90cb/transformed/firebase-messaging-25.0.1/AndroidManifest.xml:61:17-119
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/d4975de0cd92bf588e6f9651d07040a9/transformed/play-services-measurement-23.0.0/AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/3dd7268700190bd5ca12147acf6a7dd7/transformed/play-services-measurement-impl-23.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/20690578339ed4cc6f8b334bdf73a807/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/20690578339ed4cc6f8b334bdf73a807/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/304a576865dc2780043dd5359355a2de/transformed/play-services-measurement-sdk-api-23.0.0/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:27:22-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] /Users/poojaps/.gradle/caches/8.13/transforms/c43f9066bed7cab2d5edb099f48eb6d2/transformed/play-services-measurement-api-23.0.0/AndroidManifest.xml:34:17-139
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.8.1] /Users/poojaps/.gradle/caches/8.13/transforms/287574125ca65c87cae6ff3f669f5a3e/transformed/room-runtime/AndroidManifest.xml:25:13-74
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/e10bdc167cd1f07612a8c5d79f1cb69d/transformed/firebase-storage-22.0.1/AndroidManifest.xml:34:17-107
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/poojaps/.gradle/caches/8.13/transforms/884345f34c9a47e5c76e645ae47c4e71/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/poojaps/.gradle/caches/8.13/transforms/3cfe622bad5feaa372bf24a4c29ff4e4/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/64e6a1d171358f4e20f768b269217d0f/transformed/firebase-appcheck-19.0.1/AndroidManifest.xml:29:17-117
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/d29e799b6ebd44b538745c0f31a4025e/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:24:9-32:20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:11:9-19:20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:11:9-19:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/a4aa10eea31ed3736ad4c166e5b061c1/transformed/startup-runtime-1.2.0/AndroidManifest.xml:24:9-28:34
+MERGED from [androidx.startup:startup-runtime:1.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/a4aa10eea31ed3736ad4c166e5b061c1/transformed/startup-runtime-1.2.0/AndroidManifest.xml:24:9-28:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/b909486f75e5bb0f195cc44e7cb4bfd6/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+permission#com.poojaps.mindfulwork.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+uses-permission#com.poojaps.mindfulwork.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/poojaps/.gradle/caches/8.13/transforms/34d3b09337cff6855d829f37283193c4/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] /Users/poojaps/.gradle/caches/8.13/transforms/a9972abfbdb2266f5a24d4618ff06c1e/transformed/lifecycle-process-2.9.4/AndroidManifest.xml:30:17-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/poojaps/.gradle/caches/8.13/transforms/1ca6ccabc4563e9c9ea473ad51e9a1b8/transformed/recaptcha-18.6.1/AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/8db4ab8279d749728ffffff259e03d18/transformed/firebase-installations-19.0.1/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.1] /Users/poojaps/.gradle/caches/8.13/transforms/9c2654766f88f5f52e26454094388dc7/transformed/firebase-common-22.0.1/AndroidManifest.xml:36:17-109
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/31ce6345ddf5fcd2081c10a7ad6e7fa7/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/31ce6345ddf5fcd2081c10a7ad6e7fa7/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] /Users/poojaps/.gradle/caches/8.13/transforms/31ce6345ddf5fcd2081c10a7ad6e7fa7/transformed/ads-adservices-1.1.0-beta11/AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bbb1a857dbed938b8fcf31f4c80ea26/transformed/play-services-basement-18.5.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bbb1a857dbed938b8fcf31f4c80ea26/transformed/play-services-basement-18.5.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] /Users/poojaps/.gradle/caches/8.13/transforms/8bbb1a857dbed938b8fcf31f4c80ea26/transformed/play-services-basement-18.5.0/AndroidManifest.xml:22:13-58
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/poojaps/.gradle/caches/8.13/transforms/fa99daf600f22229835f28abe1f328c0/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:24:13-63
+meta-data#okhttp3.internal.platform.PlatformInitializer
+ADDED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:16:13-18:52
+	android:value
+		ADDED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:18:17-49
+	android:name
+		ADDED from [com.squareup.okhttp3:okhttp-android:5.1.0] /Users/poojaps/.gradle/caches/8.13/transforms/7fd9a38759211ec3831e6dd717a0b19b/transformed/okhttp-release/AndroidManifest.xml:17:17-77
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/poojaps/.gradle/caches/8.13/transforms/c17729ffed92aca4c8d4c46bbf650e7a/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/poojaps/.gradle/caches/8.13/transforms/f8b0935e502eb955a8d4f113449de0d5/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/5a5bebd73351fbc956b13ebc1e3f9ba9/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/poojaps/.gradle/caches/8.13/transforms/4700c0b6f1d65c3023030f61e2e3afcc/transformed/transport-runtime-3.1.9/AndroidManifest.xml:33:13-132
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /Users/poojaps/.gradle/caches/8.13/transforms/ea666ac6d067d01af78619fbf847938d/transformed/core-common-2.0.3/AndroidManifest.xml:15:13-93

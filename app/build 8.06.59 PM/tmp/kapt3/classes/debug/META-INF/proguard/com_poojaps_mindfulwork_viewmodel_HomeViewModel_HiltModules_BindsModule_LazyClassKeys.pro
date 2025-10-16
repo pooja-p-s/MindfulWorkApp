@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.poojaps.mindfulwork.viewmodel.HomeViewModel

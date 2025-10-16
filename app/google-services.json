@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524819841471",
+    "project_id": "mindful-work-3a1d3",
+    "storage_bucket": "mindful-work-3a1d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524819841471:android:91e22ebaf56af96a92e10a",
+        "android_client_info": {
+          "package_name": "com.poojaps.mindfulwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfNriSIaRmk09N903wvdWqhsG-DVuv1ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

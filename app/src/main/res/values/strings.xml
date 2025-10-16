@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MindfulWork</string>
+
+    <string name="friend_default">Friend</string>
+    <string name="settings_content_description">Settings</string>
+    <string name="greeting_text">Hey %1$s 👋</string>
+
+    <string name="mood_happy">You’re shining bright today!</string>
+    <string name="mood_neutral">A calm mind is a focused mind.</string>
+    <string name="mood_sad">Be gentle with yourself.</string>
+    <string name="mood_angry">Take a deep breath.</string>
+    <string name="mood_default">Let’s make today meaningful.</string>
+
+    <string name="footer_message">Keep up your mindful habits, %1$s 💫</string>
+
+    <string name="focus_title">⏱ Focus</string>
+    <string name="focus_subtitle">Today\'s focus time</string>
+
+    <string name="mood_title">Mood</string>
+    <string name="mood_subtitle">Most frequent today</string>
+    <string name="mood_not_logged">Not logged</string>
+
+    <string name="streak_title">🔥 Streak</string>
+    <string name="streak_subtitle">Your current streak</string>
+    <string name="days">days</string>
+    <string name="none">None</string>
+    <string name="log_mood_button">Log Mood</string>
+
+    <!-- Mood Tracker Screen -->
+    <string name="mood_tracker_title">Mood Tracker</string>
+    <string name="dominant_mood_label">Dominant Mood</string>
+    <string name="logged_times">Logged %1$d times</string>
+    <string name="mood_distribution_title">Mood Distribution</string>
+    <string name="mood_distribution_item">%1$s (%2$d)</string>
+    <string name="latest_logs_title">Latest Logs</string>
+
+    <string name="focus_timer_title">Focus Timer</string>
+
+    <!-- Timer states -->
+    <string name="focus_state_running">Focusing…</string>
+    <string name="focus_state_paused">Paused</string>
+    <string name="focus_state_ready">Ready</string>
+
+    <!-- Timer actions -->
+    <string name="focus_action_start">Start</string>
+    <string name="focus_action_pause">Pause</string>
+    <string name="focus_action_resume">Resume</string>
+    <string name="focus_action_end">End</string>
+
+    <!-- Duration -->
+    <string name="focus_duration_label">%1$d m</string>
+
+    <!-- Stats -->
+    <string name="focus_stat_sessions">Sessions</string>
+    <string name="focus_stat_total_focus">Total Focus</string>
+
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="angry">Angry</string>
+    <string name="neutral">Neutral</string>
+
+    <string name="weekly_summary_title">Weekly Summary</string>
+    <string name="no_focus_data_yet">No focus data yet</string>
+    <string name="total_focus_time_label">Total Focus Time</string>
+    <string name="focus_duration_hours_minutes">%1$dh %2$sm</string>
+    <string name="compared_last_week_label">Compared to last week: %1$s</string>
+    <string name="focus_duration_chart_label">Focus Duration (hrs/day)</string>
+    <string name="mood_trend_title">Mood Trend</string>
+</resources>
