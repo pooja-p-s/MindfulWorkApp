@@ -150,13 +150,10 @@ MIT License
 Copyright (c) 2025 Pooja P S
 ---
 
-```
-
 ## 👩‍💻 Author
 
 **Pooja Pradeep Simla**  
 Software Engineer | Android & Backend Developer  
-
-> *“Code with clarity. Design with empathy. Build for balance.”*
+ *“Code with clarity. Design with empathy. Build for balance.”*
 
 ---
